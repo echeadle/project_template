@@ -2,6 +2,10 @@
 
 A starter template for building applications with Claude Code. Copy this folder to begin a new project with pre-configured commands, skills, and workflow structure.
 
+This template was created using Claude Code and was inspired by a YouTube Video by Cole Medin: My COMPLETE Agentic Coding Workflow to Build Anything (No Fluff or Overengineering)
+
+It can be found at URL: https://www.youtube.com/watch?v=goOZSXmrYQ4&t=498s
+
 ## Quick Start
 
 1. Copy this template to a new directory
